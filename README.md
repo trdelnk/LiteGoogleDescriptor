@@ -1,5 +1,6 @@
 [![](https://jitpack.io/v/trdelnk/lite_google_descriptor.svg)](https://jitpack.io/#trdelnk/lite_google_descriptor)
 
+Google descriptor for protobuf lite
 
 Add it in your root build.gradle at the end of repositories:
 ```
